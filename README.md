@@ -5,4 +5,5 @@ The FlatbedRobot is based on modular design and powerd by lithium battery.
 
 the robot use Brushless DC electric motor.
 
+the robot use electric bike battery. 
 
