@@ -28,3 +28,5 @@ the robot use electric bike battery. In China, the electric bike battery voltage
 同时在强化学习的环境下，动态调整生成网络内的先验知识，评价网络中的评价标准。
 
 我同时想要动作环境给出的反馈是多维的，带多个标签的，使得智能体能获得更多的信息。
+
+改进网络中的loss函数，现在大部分的loss函数都在最后计算出1个数值来表示损失，我们能否扩展成多个数值，变成一个向量，或者是多个维度呢
