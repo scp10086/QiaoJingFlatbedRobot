@@ -35,4 +35,4 @@ the robot use electric bike battery. In China, the electric bike battery voltage
 
 参考美国标准 AWG， 剥线钳，电线粗细，快速接线端子，接线端子都需要参考这个标准。如果需要计算电机运行时的的电流，锂电池输出电流，也要参考这个标准。
 举例，铆钉式接线端子7.62mm间距 最大电流可能是30A，可以容纳10-20awg的电线，而10awg的电线运行电流在40a左右，20awg的电线运行电流在 4a左右。
-参考 
+参考 chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/http://www.aandt.com.tw/ImgAandT/20180213110305.pdf
