@@ -59,3 +59,9 @@ the robot use electric bike battery. In China, the electric bike battery voltage
 ## solidworks 建模
 ## matlab仿真
 ## Gazebo仿真
+
+# 资源
+# 现成的设计方案
+https://github.com/hobofan/collected-robotic-arms
+# 学习资源
+https://github.com/mikeroyal/Robotics-guide
