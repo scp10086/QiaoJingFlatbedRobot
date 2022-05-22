@@ -63,5 +63,10 @@ the robot use electric bike battery. In China, the electric bike battery voltage
 # 资源
 # 现成的设计方案
 https://github.com/hobofan/collected-robotic-arms
+# thor 
+步进电机 6轴机械臂
+http://thor.angel-lm.com/documentation/get-started/
+
+
 # 学习资源
 https://github.com/mikeroyal/Robotics-guide
