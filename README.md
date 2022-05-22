@@ -66,7 +66,13 @@ https://github.com/hobofan/collected-robotic-arms
 # thor 
 步进电机 6轴机械臂
 http://thor.angel-lm.com/documentation/get-started/
-
+# ar2
 
 # 学习资源
 https://github.com/mikeroyal/Robotics-guide
+
+# 目标形状
+酷炫机械臂
+https://www.bilibili.com/video/BV1bJ411B77E/?spm_id_from=333.788.recommend_more_video.11
+机器人关节
+https://www.bilibili.com/video/BV1XY411A7z1/?spm_id_from=333.788.recommend_more_video.0
