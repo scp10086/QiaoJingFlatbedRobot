@@ -45,3 +45,16 @@ the robot use electric bike battery. In China, the electric bike battery voltage
 电动车锂电池一般在48v，60v，和72v这几个档位，
 因此，面对不同的电机，还需要准备48转24v和48转12v的变压器。
 如果要更大容量的话，就需要购买宁德时代或者比亚迪生产的给房车使用的磷酸铁锂电池。
+
+# 安装ros2
+## 在嵌入式芯片上安装ros2
+## 在仿真平台上安装ros2
+
+#机械与机器人学习
+## 机器人导论学习
+## 机械原理学习
+
+#建模与仿真
+# solidworks 建模
+# matlab仿真
+# Gazebo仿真
