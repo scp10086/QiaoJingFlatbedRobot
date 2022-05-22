@@ -49,6 +49,7 @@ the robot use electric bike battery. In China, the electric bike battery voltage
 # 安装ros2
 ## 在嵌入式芯片上安装ros2
 ## 在仿真平台上安装ros2
+服务器端命令行安装ros2， windows 远程桌面。
 ## arduino平台安装ros2
 #机械与机器人学习
 ## 机器人导论学习
