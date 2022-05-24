@@ -68,6 +68,9 @@ https://github.com/hobofan/collected-robotic-arms
 http://thor.angel-lm.com/documentation/get-started/
 # ar2
 
+# 基于无刷电机的方案
+https://hackaday.io/project/180588-cm6-compliant-3d-printed-robotic-arm#j-discussions-title
+
 # 学习资源
 https://github.com/mikeroyal/Robotics-guide
 
