@@ -81,3 +81,8 @@ https://github.com/mikeroyal/Robotics-guide
 https://www.bilibili.com/video/BV1bJ411B77E/?spm_id_from=333.788.recommend_more_video.11
 机器人关节
 https://www.bilibili.com/video/BV1XY411A7z1/?spm_id_from=333.788.recommend_more_video.0
+# 大功率机器人关节
+OpenTorque: https://hackaday.io/project/159404-opentorque-actuator
+
+# 项目计划
+1. 抄袭开源项目，拒绝反复造轮子
