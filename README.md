@@ -84,5 +84,9 @@ https://www.bilibili.com/video/BV1XY411A7z1/?spm_id_from=333.788.recommend_more_
 # 大功率机器人关节
 OpenTorque: https://hackaday.io/project/159404-opentorque-actuator
 
+# 清洁厕所
+想办法 抄袭一下 下面的技术
+米博无滚布洗地机吸拖洗一体家用无线智能手持拖地机V6自清洗方太 
+
 # 项目计划
 1. 抄袭开源项目，拒绝反复造轮子
